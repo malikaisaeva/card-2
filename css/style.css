@@ -1,0 +1,48 @@
+.container {
+  font-family: "Roboto", sans-serif;
+  margin-left: 20px;
+}
+
+input {
+  width: 220px;
+  height: 30px;
+  border-radius: 7px;
+  border: 2px solid grey;
+  padding-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+  margin-left: -115px;
+  font-size: 12px;
+}
+a:hover, a:active {
+  color: orchid;
+}
+
+.button {
+  margin-top: 20px;
+  width: 235px;
+  height: 28px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  background: grey;
+  color: rgb(82, 82, 80);
+}
+.button:hover {
+  background: dimgray;
+}
+.button:active {
+  background: lightslategrey;
+}
+
+.text a {
+  margin-left: 53px;
+  font-size: 10px;
+}
+
+img {
+  margin-left: 90px;
+  margin-top: -20px;
+}
